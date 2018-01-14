@@ -1,0 +1,12 @@
+logs/
+npm-debug.log
+node_modules/
+coverage/
+.idea/
+run/
+.DS_Store
+*.swp
+package-lock.json
+typings
+typings.json
+src/dev_config.js
